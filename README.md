@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
