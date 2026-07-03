@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0027-remove-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
