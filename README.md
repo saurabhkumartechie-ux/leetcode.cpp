@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0412-fizz-buzz) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -64,8 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0027-remove-element) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
