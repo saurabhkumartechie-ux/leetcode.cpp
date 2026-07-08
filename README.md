@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0013-roman-to-integer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0412-fizz-buzz) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0412-fizz-buzz) |
