@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0027-remove-element) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
