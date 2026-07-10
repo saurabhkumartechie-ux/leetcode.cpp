@@ -11,7 +11,7 @@ public:
             else
                 num = num - 1;
 
-            steps++;
+            steps = steps + 1;
         }
 
         return steps;
