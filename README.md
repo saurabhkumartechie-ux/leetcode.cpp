@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0035-search-insert-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -91,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saurabhkumartechie-ux/leetcode.cpp/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
